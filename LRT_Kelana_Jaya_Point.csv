@@ -1,0 +1,38 @@
+ID,Geometry,Stop Name,Station Code,Service Provider Name,Route Name,Longitude,Latitude
+1,Point,Gombak,KJ1,Rapid KL,Kelana Jaya Line,101.724427,3.231793
+2,Point,KLCC,KJ10,Rapid KL,Kelana Jaya Line,101.713287,3.158935
+3,Point,Kampung Baru,KJ11,Rapid KL,Kelana Jaya Line,101.706608,3.161386
+4,Point,Dang Wangi,KJ12,Rapid KL,Kelana Jaya Line,101.701975,3.156942
+5,Point,Masjid Jamek,KJ13,Rapid KL,Kelana Jaya Line,101.696815,3.149714
+6,Point,Pasar Seni,KJ14,Rapid KL,Kelana Jaya Line,101.69531,3.142439
+7,Point,KL Sentral,KJ15,Rapid KL,Kelana Jaya Line,101.68625,3.13442
+8,Point,Bangsar,KJ16,Rapid KL,Kelana Jaya Line,101.679062,3.127588
+9,Point,Abdullah Hukum,KJ17,Rapid KL,Kelana Jaya Line,101.672897,3.118735
+10,Point,Kerinchi,KJ18,Rapid KL,Kelana Jaya Line,101.668572,3.115506
+11,Point,Universiti,KJ19,Rapid KL,Kelana Jaya Line,101.661639,3.114616
+12,Point,Taman Melati,KJ2,Rapid KL,Kelana Jaya Line,101.72197,3.219558
+13,Point,Taman Jaya,KJ20,Rapid KL,Kelana Jaya Line,101.645248,3.104086
+14,Point,Asia Jaya,KJ21,Rapid KL,Kelana Jaya Line,101.637695,3.104343
+15,Point,Taman Paramount,KJ22,Rapid KL,Kelana Jaya Line,101.623192,3.104716
+16,Point,Taman Bahagia,KJ23,Rapid KL,Kelana Jaya Line,101.612856,3.11079
+17,Point,Kelana Jaya,KJ24,Rapid KL,Kelana Jaya Line,101.6043,3.112497
+18,Point,Lembah Subang,KJ25,Rapid KL,Kelana Jaya Line,101.591034,3.112094
+19,Point,Ara Damansara,KJ26,Rapid KL,Kelana Jaya Line,101.586372,3.108643
+20,Point,Glenmarie,KJ27,Rapid KL,Kelana Jaya Line,101.590622,3.094732
+21,Point,Subang Jaya,KJ28,Rapid KL,Kelana Jaya Line,101.588127,3.08466
+22,Point,SS15,KJ29,Rapid KL,Kelana Jaya Line,101.585983,3.075972
+23,Point,Wangsa Maju,KJ3,Rapid KL,Kelana Jaya Line,101.731796,3.205751
+24,Point,SS18,KJ30,Rapid KL,Kelana Jaya Line,101.585945,3.067182
+25,Point,USJ7,KJ31,Rapid KL,Kelana Jaya Line,101.592194,3.054956
+26,Point,Taipan,KJ32,Rapid KL,Kelana Jaya Line,101.590233,3.04815
+27,Point,Wawasan,KJ33,Rapid KL,Kelana Jaya Line,101.588348,3.035062
+28,Point,USJ21,KJ34,Rapid KL,Kelana Jaya Line,101.581711,3.029881
+29,Point,Alam Megah,KJ35,Rapid KL,Kelana Jaya Line,101.572029,3.023151
+30,Point,Subang Alam,KJ36,Rapid KL,Kelana Jaya Line,101.572281,3.009421
+31,Point,Putra Heights,KJ37,Rapid KL,Kelana Jaya Line,101.575462,2.996227
+32,Point,Sri Rampai,KJ4,Rapid KL,Kelana Jaya Line,101.73747,3.199176
+33,Point,Setiawangsa,KJ5,Rapid KL,Kelana Jaya Line,101.73584,3.17576
+34,Point,Jelatek,KJ6,Rapid KL,Kelana Jaya Line,101.735344,3.167204
+35,Point,Dato’ Keramat,KJ7,Rapid KL,Kelana Jaya Line,101.73184,3.16509
+36,Point,Damai,KJ8,Rapid KL,Kelana Jaya Line,101.724489,3.164406
+37,Point,Ampang Park,KJ9,Rapid KL,Kelana Jaya Line,101.719017,3.159894
